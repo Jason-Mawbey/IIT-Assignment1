@@ -8,4 +8,7 @@ h1 {color: #37359a; text-align: center;}
 h3 {color: #37359a; text-align: center;}
 p {color: #0f2008;}
 
-img {width: 500px}
+img {width: 600px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;}
