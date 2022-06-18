@@ -1,9 +1,9 @@
-body { background-color: #8B4513;
+body { background-color: #d7eeef;
     color: #118c11;
     font-size: 25px;
     font-weight: bold;
     text-align: center;
     margin-top: 40px; }
-h1 {color: darkblue;}
-h3 {color: darkblue;}
-p {color: green;}
+h1 {color: #37359a; text-align: center;}
+h3 {color: #37359a; text-align: center;}
+p {color: #0f2008;}
